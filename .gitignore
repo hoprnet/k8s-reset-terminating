@@ -15,7 +15,7 @@
 # vendor/
 
 .DS_Store
-resetpv
+k8s_reset
 ca.crt
 etcd.crt
 etcd.key

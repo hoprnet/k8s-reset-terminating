@@ -5,7 +5,7 @@ Licensed under MIT https://github.com/jianz/jianz.github.io/blob/master/LICENSE
 
 package main
 
-import "github.com/jianz/k8s-reset-terminating-pv/cmd"
+import "github.com/hoprnet/k8s-reset-terminating/cmd"
 
 func main() {
 	cmd.Execute()
